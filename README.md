@@ -1,3 +1,8 @@
+---
+title: This is my title
+layout: post
+---
+
 # Header
 
 ## Header 1
